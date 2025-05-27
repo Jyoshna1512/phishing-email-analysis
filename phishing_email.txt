@@ -1,0 +1,18 @@
+Subject: Urgent: Your Bank Account Has Been Suspended
+
+From: support@securebank-alert.com
+
+Dear Customer,
+
+We have detected unusual activity in your bank account. For your security, we have temporarily suspended your account access.
+
+To restore access, please verify your identity by clicking the link below:
+
+👉 https://securebank-verify.com/login
+
+Failure to act within 24 hours will result in permanent suspension of your account.
+
+Thank you for your cooperation.
+
+Sincerely,  
+SecureBank Team
